@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrfzvx12/Arelbot"
+    "url": "git+https://github.com/Syahriz-bot/wb5.git"
   },
   "keywords": [
     "K"
@@ -42,7 +42,7 @@
   "author": "mrf.zvx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mrfzvx12/Arelbot/issues"
+    "url": "https://github.com/Syahriz-bot/wb5.git/issues"
   },
-  "homepage": "https://github.com/mrfzvx12/Arelbot#readme"
+  "homepage": "https://github.com/Syahriz-bot/wb5.git#readme"
 }
