@@ -132,7 +132,7 @@ Terakhir scan kode QR
 | Al-Qur'an per surah|✅|
 | Wikipedia|✅|
 
-| Others |Yes|
+| Weather |Yes|
 | ------------- | ------------- |
 | Cuaca|✅|
 
