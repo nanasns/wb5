@@ -134,6 +134,10 @@ Terakhir scan kode QR
 
 | Others |Yes|
 | ------------- | ------------- |
+| Cuaca|✅|
+
+| Others |Yes|
+| ------------- | ------------- |
 | Lirik lagu|✅|
 | Chord lagu|✅|
 | Map|✅|
