@@ -589,11 +589,11 @@ axios.get(`https://api.terhambar.com/ninja?nama=${teks}`).then((res) => {
 }
 	   
   //Informasi cuaca daerah
-if (text.includes('.Cuaca')){
+if (text.includes('#Cuaca')){
 conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.text, { quoted: m } );
 }
-if (text.includes(".cuaca")){
-   	const cuaca = text.replace(/.cuaca /, "")
+if (text.includes("#cuaca")){
+   	const cuaca = text.replace(/#cuaca /, "")
    axios.get(`https://mhankbarbars.herokuapp.com/api/cuaca?q=${cuaca}&apiKey=${apibarbar}`).then ((res) =>{
          conn.sendMessage(id, '[ WAIT ] Menampilkan cuaca⏳ silahkan tunggu', MessageType.text, { quoted: m } )
         let hasil = `*Tempat* : ${cuaca}\n*Angin* : ${res.data.result.angin}\n*Cuaca* : ${res.data.result.cuaca}\n*Deskripsi* : ${res.data.result.desk}\n*Kelembaban* : ${res.data.result.kelembapan}\n*Suhu* : ${res.data.result.suhu}\n*Udara* : ${res.data.result.udara}`
