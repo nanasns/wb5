@@ -111,7 +111,6 @@ Terakhir scan kode QR
 | ------------- | ------------- |
 | Tulis|✅|
 | Stiker|✅|
-| OCR|✅|
 | Instagram stalker|✅|
 | Shortlink|✅|
 
