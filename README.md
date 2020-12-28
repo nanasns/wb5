@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<a href="#"><img title="SYAHRIZBOT" src="https://img.shields.io/badge/wb5-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SYAHRIZBOT" src="https://img.shields.io/badge/SYAHRIZBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
 <a href="https://github.com/Syahriz-bot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Syahriz-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/Syahriz-bot/wb5/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Syahriz-bot/wb5?color=red&style=flat-square"></a>
