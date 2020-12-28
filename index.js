@@ -495,11 +495,11 @@ if (text.includes("#quotes"))
     });
 	   
    //Quotes maker
-if (text.includes('.Kata')){
+if (text.includes('#Kata')){
 conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.text, { quoted: m } );
 }
-if (text.includes('.kata')){
-    const gh = text.split(".kata ")[1];
+if (text.includes('#kata')){
+    const gh = text.split("#kata ")[1];
     const kata = gh.split("/")[0];
     const author = gh.split("/")[1];
     axios.get(`https://terhambar.com/aw/qts/?kata=${kata}&author=${author}&tipe=rain`)
