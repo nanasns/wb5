@@ -42,18 +42,6 @@ WAConnection,
 } = require("@adiwajshing/baileys");
 var jam = moment().format("HH:mm");
 
-// OCR Library
-const readTextInImage = require('./lib/ocr')
-
-function foreach(arr, func)
-{
-   for (var i in arr)
-   {
-      func(i, arr[i]);
-   }
-}
-const conn = new WAConnection()
-conn.on('qr', qr =>
 {
    qrcode.generate(qr,
    {
