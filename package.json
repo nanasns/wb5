@@ -1,6 +1,6 @@
 {
-  "name": "Arelbot",
-  "version": "1.0.0",
+  "name": "Bot Syahriz",
+  "version": "2.0.0",
   "description": "Termux whatsapp bot",
   "main": "index.js",
   "directories": {
