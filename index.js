@@ -15,13 +15,13 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'BOT Syahriz'; 
+const BotName = 'SYAHRIZBOT'; 
 const instagram = '@_.riz.s'; 
 const aktif = '24 Jam';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Syahriz\n' // Nama kamu
-            + 'ORG:BOT Syahriz;\n' // Nama bot
+            + 'ORG:SYAHRIZBOT;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=60193409203:+60 19-340 9203\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
