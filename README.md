@@ -136,6 +136,7 @@ Terakhir scan kode QR
 | ------------- | ------------- |
 | Lirik lagu|✅|
 | Chord lagu|✅|
+| Map|✅|
 
 | Groups |Yes|
 | ------------- | ------------- |
